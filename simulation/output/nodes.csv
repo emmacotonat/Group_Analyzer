@@ -1,0 +1,13 @@
+id,team,tenure,role,advice_in,advice_out
+P01,0,6,Logística,5,3
+P02,0,1,Activitats,2,0
+P03,0,1,Coordinació,1,2
+P04,0,2,Logística,1,2
+P05,1,2,Activitats,1,1
+P06,1,1,Coordinació,0,2
+P07,1,5,Logística,1,0
+P08,1,7,Activitats,1,1
+P09,2,3,Coordinació,3,2
+P10,2,4,Logística,0,3
+P11,2,3,Activitats,2,4
+P12,2,6,Coordinació,5,2
