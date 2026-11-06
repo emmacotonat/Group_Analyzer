@@ -1,0 +1,74 @@
+{
+  "synthetic": true,
+  "seed": 20261106,
+  "domain_scores": {
+    "biografic": {
+      "planned": 264,
+      "usable": 254,
+      "declared": 202,
+      "comparable": 254,
+      "valid": 202,
+      "correct": 165,
+      "completeness": 0.9621212121212122,
+      "coverage": 0.7952755905511811,
+      "comparable_coverage": 0.7952755905511811,
+      "precision": 0.8168316831683168,
+      "effective": 0.6496062992125984,
+      "uncorroborated": 0.14566929133858267
+    },
+    "posicional": {
+      "planned": 264,
+      "usable": 251,
+      "declared": 146,
+      "comparable": 240,
+      "valid": 137,
+      "correct": 96,
+      "completeness": 0.9507575757575758,
+      "coverage": 0.5816733067729084,
+      "comparable_coverage": 0.5708333333333333,
+      "precision": 0.7007299270072993,
+      "effective": 0.4,
+      "uncorroborated": 0.17083333333333334
+    },
+    "moral_normatiu": {
+      "planned": 264,
+      "usable": 260,
+      "declared": 138,
+      "comparable": 260,
+      "valid": 138,
+      "correct": 84,
+      "completeness": 0.9848484848484849,
+      "coverage": 0.5307692307692308,
+      "comparable_coverage": 0.5307692307692308,
+      "precision": 0.6086956521739131,
+      "effective": 0.3230769230769231,
+      "uncorroborated": 0.2076923076923077
+    }
+  },
+  "correlations": {
+    "biografic": -0.22053114543904026,
+    "posicional": 0.08509601441789019,
+    "moral_normatiu": -0.3069785498748923
+  },
+  "benchmarks": {
+    "biografic": {
+      "projection": 0.28217821782178215,
+      "projection_n": 202,
+      "majority_loo": 0.23267326732673269,
+      "majority_n": 202
+    },
+    "posicional": {
+      "projection": 0.26356589147286824,
+      "projection_n": 129,
+      "majority_loo": 0.24817518248175183,
+      "majority_n": 137
+    },
+    "moral_normatiu": {
+      "projection": 0.2463768115942029,
+      "projection_n": 138,
+      "majority_loo": 0.1956521739130435,
+      "majority_n": 138
+    }
+  },
+  "warning": "Paràmetres i patrons imposats pel generador; no són resultats de camp."
+}
